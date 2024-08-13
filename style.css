@@ -2,4 +2,10 @@ body {
     background-color: rgb(212, 219, 231);
 }
 
-p { font-style: normal;}
+p {
+     font-style: normal;
+    }
+
+p{
+    color:rgb(53, 69, 88)
+}

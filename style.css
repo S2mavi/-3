@@ -3,9 +3,13 @@ body {
 }
 
 p {
-     font-style:normal;
+    font-style:normal;
     }
 
-p{
+p {
     color:rgb(53, 69, 88)
 }
+
+body { 
+    text-align: center  
+;}

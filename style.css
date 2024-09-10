@@ -15,3 +15,9 @@ img {
 .hello_kitty {
     width: 80%;
 }
+
+header {
+    border-bottom: solid 2px rgb(180, 213, 255);
+    padding: 20px;
+    font-size: 32px;
+}

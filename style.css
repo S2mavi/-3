@@ -1,24 +1,27 @@
-<link hel="stylesheet" href="style.css" | />
 body {
-    background-color: rgb(212, 219, 231);
+    background-color: rgb(181, 208, 255);
     text-align: center;
-    font-style:normal;
+    font-style: normal;
+    margin: 0px;
 }
 
 p {
     color:rgb(53, 69, 88)
 }
 
-img {
-    text-align: center;
-}
-
 .hello_kitty {
-    width: 80%;
+    width: 40%;
+    text-align: center;
 }
 
 header {
     border-bottom: solid 2px rgb(180, 213, 255);
     padding: 20px;
     font-size: 32px;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 2px;
+    margin-top: 5px;
 }

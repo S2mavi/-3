@@ -1,7 +1,6 @@
 body {
     background-color: #c3e5ff;
     text-align: center;
-    font-style: normal;
     margin: 100px;
     font-family: "Quicksand", sans-serif;
 }
@@ -11,7 +10,7 @@ p {
 }
 
 .hello_kitty {
-    width: 10%;
+    width: 40%;
     text-align: center;
 }
 
@@ -19,6 +18,7 @@ header {
     border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
+    margin: 10px;
 }
 
 h1 {

@@ -2,7 +2,8 @@ body {
     background-color: #c3e5ff;
     text-align: center;
     font-style: normal;
-    margin: 0px;
+    margin: 100px;
+    font-family: "Quicksand", sans-serif;
 }
 
 p {

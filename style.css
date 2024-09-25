@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(181, 208, 255);
+    background-color: #c3e5ff;
     text-align: center;
     font-style: normal;
     margin: 0px;
@@ -15,7 +15,7 @@ p {
 }
 
 header {
-    border-bottom: solid 2px rgb(180, 213, 255);
+    border-bottom: solid 2px rgb(0, 0, 0);
     padding: 20px;
     font-size: 32px;
 }
